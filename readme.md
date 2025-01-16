@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nair-abhinav" alt="nair-abhinav" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/abhinav nair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhinav nair" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhinav nair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav nair" height="30" width="40" /></a>
-<a href="https://kaggle.com/abhinav nair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abhinav nair" height="30" width="40" /></a>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="www.linkedin.com/in/abhinav-nair-abc1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav nair" height="30" width="40" /></a>
 <a href="https://instagram.com/_nairabhinav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nairabhinav" height="30" width="40" /></a>
 </p>
 
